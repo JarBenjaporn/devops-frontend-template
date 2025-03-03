@@ -1,4 +1,4 @@
-module github.com/GraphZC/demo-backend
+module github.com/GraphZC/demo-frontend
 
 go 1.23.4
 
